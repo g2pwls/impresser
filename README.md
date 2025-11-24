@@ -688,7 +688,14 @@ GPU를 활용하여 **고속·고효율 이미지 압축**을 수행하는 Impre
 
 ### [JIRA](./readme/image/jira.png)
 [<img src="./readme/image/jira.png" width="700"/>](./image/jira.png)  
+<details>
+<summary>전체 보기</summary>
 
+<br>
+
+<img src="./readme/image/지라전체보기.png" width="700"/>
+
+</details>
 
 ### [API 명세서](https://www.notion.so/hwansu/28d8cbba0b6b800da8b9d015a79cd927)
 [<img src="./readme/image/api 명세서.png" width="700"/>](./image/api%20명세서.png)  
